@@ -97,13 +97,11 @@ Chạy ứng dụng trên localhost
 
 * Trong file *config/database.yml*, đặt lại user và pass đăng nhập (Nếu đã không có mật khẩu thì để trống dòng password):
 
-<img src="https://i.imgur.com/jeoWEAr.png">
+[Imgur](https://i.imgur.com/jeoWEAr.png)
 
 **2. Cài đặt các Gem:**
 
-Chạy lệnh: 
-
-* bundle install
+Chạy lệnh: bundle install
 
 **3. Tạo database**
 
