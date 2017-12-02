@@ -2,18 +2,18 @@
 Giới thiệu 
 ==========
 
-1. **Tên sản phẩm:** PicApp
+* **Tên sản phẩm:** PicApp
 
-2. **Công nghệ sử dụng:**  Ruby on Rails 5 (Mô hình MVC), Bootstrap 4, Mysql2...
+* **Công nghệ sử dụng:**  Ruby on Rails 5 (Mô hình MVC), Bootstrap 4, Mysql2...
 
 
 Cài đặt môi trường
 ==================
 ### Hướng dẫn cài đặt dưới đây thực hiện trên môi trường hệ điều hành Ubuntu/Linux. Bạn có thể giả lập môi trường hoặc cài đặt trên chính hệ điều hành bạn đang sử dụng, tìm hiểu thêm tại các trang web uy tín: 
 
-*https://www.codehub.vn/
+* https://www.codehub.vn/
 
-*https://viblo.asia/
+* https://viblo.asia/
 
 ...
 
@@ -83,7 +83,7 @@ Cách sử dụng RVM (Ruby Version Manager) tham khảo tại đây: https://rv
 
 **Thêm dòng sau vào cuối**
 
-*Include /etc/phpmyadmin/apache.conf
+* Include /etc/phpmyadmin/apache.conf
 
 **B3:** Khởi động lại apache
 
