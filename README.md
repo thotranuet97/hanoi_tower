@@ -95,9 +95,9 @@ Chạy ứng dụng trên localhost
 
 **1. Cấu hình file *database.yml***
 
-* Trong file *config/database.yml*, đặt lại use và pass đăng nhập (Nếu đã không có mật khẩu thì để trống dòng password):
+* Trong file *config/database.yml*, đặt lại user và pass đăng nhập (Nếu đã không có mật khẩu thì để trống dòng password):
 
-<img src="https://i.imgur.com/8gyeKKG.jpg">
+<img src="https://i.imgur.com/jeoWEAr.png">
 
 **2. Cài đặt các Gem:**
 
