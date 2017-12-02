@@ -112,6 +112,4 @@ Chạy lệnh: bundle install
 
 * rails s
 
-Mở trình duy
-
-
+Mở trình duyệt, truy cập địa chỉ localhost:3000
