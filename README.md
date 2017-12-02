@@ -9,19 +9,19 @@ Giới thiệu
 
 Cài đặt môi trường
 ==================
-#Hướng dẫn cài đặt dưới đây thực hiện trên môi trường hệ điều hành Ubuntu/Linux. Bạn có thể giả lập môi trường hoặc cài đặt trên chính hệ điều hành bạn đang sử dụng, tìm hiểu thêm tại các trang web uy tín: 
+###Hướng dẫn cài đặt dưới đây thực hiện trên môi trường hệ điều hành Ubuntu/Linux. Bạn có thể giả lập môi trường hoặc cài đặt trên chính hệ điều hành bạn đang sử dụng, tìm hiểu thêm tại các trang web uy tín: 
 
-https://www.codehub.vn/
+*https://www.codehub.vn/
 
-https://viblo.asia/
+*https://viblo.asia/
 
 ...
 
 **1. Cài đặt môi trường Ubuntu**
 
-Download Ubuntu 14.04 tại đây: http://www.ubuntu.com/download/desktop
+*Download Ubuntu 14.04 tại đây: http://www.ubuntu.com/download/desktop
 
-Cách cài đặt tham khảo tại đây: http://vforum.vn/diendan/showthread.php?56703-Huong-dan-cach-tao-usb-cai-dat-ubuntu
+*Cách cài đặt tham khảo tại đây: http://vforum.vn/diendan/showthread.php?56703-Huong-dan-cach-tao-usb-cai-dat-ubuntu
 
 **2. Cài đặt Ruby on rails**
 
