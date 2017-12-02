@@ -97,7 +97,7 @@ Chạy ứng dụng trên localhost
 
 * Trong file *config/database.yml*, đặt lại user và pass đăng nhập (Nếu đã không có mật khẩu thì để trống dòng password):
 
-<img src="https://i.imgur.com/jeoWEAr.png">
+<img src="https://i.imgur.com/kJ62CpQ.png">
 
 **2. Cài đặt các Gem:**
 
@@ -107,5 +107,11 @@ Chạy lệnh: bundle install
 
 * rake db:create
 * rake db:migrate
+
+**4. Chạy ứng dụng**
+
+* rails s
+
+Mở trình duy
 
 
