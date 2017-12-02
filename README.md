@@ -13,9 +13,7 @@ Cài đặt môi trường
 
 * https://www.codehub.vn/
 
-* https://viblo.asia/
-
-...
+* https://viblo.asia/ ...
 
 **1. Cài đặt môi trường Ubuntu**
 
@@ -92,4 +90,25 @@ Cách sử dụng RVM (Ruby Version Manager) tham khảo tại đây: https://rv
 **B4:** Truy cập vào phpmyadmin qua đường dẫn
 
 * localhost/phpmyadmin
+
+Chạy ứng dụng trên localhost
+============================
+
+**1. Cấu hình file *database.yml* **
+
+* Trong file *config/database.yml*, đặt lại use và pass đăng nhập (Nếu đã không có mật khẩu thì để trống dòng password):
+
+<img src="https://i.imgur.com/8gyeKKG.jpg">
+
+**2. Cài đặt các Gem:**
+
+Chạy lệnh: 
+
+* bundle install
+
+**3. Tạo database**
+
+* rake db:create
+* rake db:migrate
+
 
