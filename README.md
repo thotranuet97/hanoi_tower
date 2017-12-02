@@ -1,7 +1,6 @@
 # PicApp - Ứng dụng quản lý và chia sẻ ảnh
 Giới thiệu 
 ==========
-
 * **Tên sản phẩm:** PicApp
 
 * **Công nghệ sử dụng:**  Ruby on Rails 5 (Mô hình MVC), Bootstrap 4, Mysql2...
@@ -9,7 +8,7 @@ Giới thiệu
 
 Cài đặt môi trường
 ==================
-### Hướng dẫn cài đặt dưới đây thực hiện trên môi trường hệ điều hành Ubuntu/Linux. Bạn có thể giả lập môi trường hoặc cài đặt trên chính hệ điều hành bạn đang sử dụng, tìm hiểu thêm tại các trang web uy tín: 
+Hướng dẫn cài đặt dưới đây thực hiện trên môi trường hệ điều hành Ubuntu/Linux. Bạn có thể giả lập môi trường hoặc cài đặt trên chính hệ điều hành bạn đang sử dụng, tìm hiểu thêm tại các trang web uy tín: 
 
 * https://www.codehub.vn/
 
@@ -94,7 +93,7 @@ Cách sử dụng RVM (Ruby Version Manager) tham khảo tại đây: https://rv
 Chạy ứng dụng trên localhost
 ============================
 
-**1. Cấu hình file *database.yml* **
+**1. Cấu hình file *database.yml***
 
 * Trong file *config/database.yml*, đặt lại use và pass đăng nhập (Nếu đã không có mật khẩu thì để trống dòng password):
 
