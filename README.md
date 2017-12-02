@@ -1,4 +1,4 @@
-#PicApp - Ứng dụng quản lý và chia sẻ ảnh
+# PicApp - Ứng dụng quản lý và chia sẻ ảnh
 Giới thiệu 
 ==========
 
